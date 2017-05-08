@@ -1,0 +1,30 @@
+Credits
+
+I used following libraries:
+
+Google: Appcompat v7
+Google: Cardview v7
+Google: Recyclerview v7
+Jerzy Chałupski: FloatingActionButton
+Roman Nurik: Dashclock
+Jake Wharton: NineOldAndroids
+Square Inc.: Picasso
+Karim Frenn: MaterialTabs
+Also codes from different people:
+
+Andrei F.
+
+RootUtils
+apbaxel
+
+Constants
+(Many sys interface paths has been taken from his UKM-Project)
+
+Brandon Valosek
+
+CpuSpyApp
+CpuStateMonitor
+FrequencyTableFragment
+Google
+
+ScrimInsetsFrameLayout
